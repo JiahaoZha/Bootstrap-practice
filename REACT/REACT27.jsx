@@ -6,7 +6,7 @@ const styles = {
 
   class Colorful extends React.Component {
     render() {
-      // Change code below this line
+
       return (
         <div style={styles}>Style Me!</div>
       );
